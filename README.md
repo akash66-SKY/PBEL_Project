@@ -23,6 +23,7 @@ Interactive Streamlit UI
  ├── requirements.txt       # Python dependencies
  └── README.md              # Project documentation
  📦 Setup Instructions
+ 
  1. 
 Clone the repository
  git clone https://github.com/your-username/salary-prediction-app.git
