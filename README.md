@@ -26,7 +26,7 @@ Interactive Streamlit UI
  
  1. 
 Clone the repository
- git clone https://github.com/your-username/salary-prediction-app.git
+ git clone https://github.com/akash66-SKY/salary-prediction-app.git
  cd salary-prediction-app
  1. 
 Create a virtual environment (optional but recommended)
